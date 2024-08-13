@@ -38,7 +38,7 @@ export default function Home() {
         </article>
         </main>
         <footer className={styles.footer}>
-          <Image src={LogoImg} width={286 / 2} />
+          <Image src={LogoImg} width={286 / 2} alt='Logo RocketSeat' />
           <nav className={styles.nav} aria-label="Rodapé">
               <Dialog.Root>
                 <Dialog.Trigger asChild>
