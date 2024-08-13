@@ -1,40 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="">Clique aqui para ter acesso ao projeto!</a>
 
-## Getting Started
+<h1>Desenvolvendo uma Web Acessível</h1>
 
-First, run the development server:
+<p>
+  Durante o curso, foram aplicadas as diretrizes da WCAG, bem como a utilização de leitores de tela como o Axe, uma extensão do Chrome. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tive uma experiência excepcional com a biblioteca Radix-UI para React, que facilita significativamente o desenvolvimento de interfaces acessíveis. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A biblioteca oferece componentes semânticos como Dialog.Content e Dialog.Description, além de permitir o uso de propriedades como asChild e aria-labels, o que melhora a acessibilidade e a organização do código. 
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Neste projeto, utilizei CSS em módulos para uma estrutura de código mais organizada, bem como a tecnologia Next.js com TypeScript e Radix-UI.
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![image](https://github.com/user-attachments/assets/ea81fdf7-a1a7-49ce-ace3-5e284afb99d6)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+<p>Utilize as teclas, Enter, Tab e Esc para ver as melhorias na acessibilidade da página com o Radix-UI. Ela também está responsiva para telas menores e dispositivos móveis</p>
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/user-attachments/assets/928871b0-673d-4680-9fd0-556045fe4180)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<h1>ING</h1>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p>
+  During the course, WCAG guidelines were applied, as well as the use of screen readers such as Axe, a Chrome extension. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I've had an exceptional experience with the Radix-UI library for React, which makes developing accessible interfaces significantly easier. 
+
+The library offers semantic components such as Dialog.Content and Dialog.Description, in addition to allowing the use of properties such as asChild and aria-labels, which improves accessibility and code organization. 
+
+In this project, I used CSS in modules for a more organized code structure, as well as Next.js technology with TypeScript and Radix-UI.
+</p>
+
+<p>Use the Enter, Tab and Esc keys to see improvements in page accessibility with Radix-UI. It is also responsive for smaller screens and mobile devices.</p>
